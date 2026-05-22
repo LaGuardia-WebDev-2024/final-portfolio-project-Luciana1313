@@ -28,7 +28,7 @@ li a {
   color: rgb(218, 218, 218);
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration:none;
 }
 
 li a:hover:not(.active) {
@@ -42,3 +42,4 @@ li a:hover:not(.active) {
 h1 {
   width: 100%;
 }
+
